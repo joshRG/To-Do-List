@@ -9,6 +9,8 @@
 <body>
     <h1>Task: {{task}}</h1>
     <br>
+    <a href="{% url 'tasks' %}">Go back</a>
+    <br>
     <h2>
         Detail: <p>{{task.description}}</p>
     </h2>

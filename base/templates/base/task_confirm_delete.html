@@ -8,13 +8,21 @@
 </head>
 <body>
 
-    <h1>Select a task to Delete</h1>
-    <a href="{% url 'tasks' %}">Go back</a>
-    <form method="POST">
-        {% csrf_token %}
-        <p>You sure you wanna delete this task? "{{task}}"</p>
-        <input type="submit" value="Delete">
-    </form>
+    {% extends 'base/main.html' %}
+    {% block  content %}
+    <div class="header-bar">
+        <a href="{% url 'tasks' %}">&#8592; Go Back</a>
+    </div>
+
+    <div class="card-body">
+        <form method="POST">
+            {% csrf_token %}
+            <p>You sure you wanna delete this task? "{{task}}"</p>
+            <input class="button" type="submit" value="Delete">
+        </form>
+    </div>
+    
+    {% endblock content %}
     
 </body>
 </html>

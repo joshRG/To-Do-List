@@ -1,1 +1,1 @@
-Documentation of the web app
+- [How it Works](#how-it-works)

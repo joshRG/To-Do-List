@@ -1,6 +1,7 @@
 # ***To-Do-List***
 <sup>A web app developed in django to make simple TODO lists</sup>
 
+![image](https://user-images.githubusercontent.com/32374996/204930341-1b5c418a-c7c1-4c2c-a46a-28927175874c.png)
 
 - [How it Works](#how-it-works)
 - [Prerequisites](#Prerequisites)

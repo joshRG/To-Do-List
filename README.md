@@ -1,6 +1,13 @@
 # ***To-Do-List***
 <sup>A web app developed in django to make simple TODO lists</sup>
 
+- [Sample View](#Sample-view)
+- [How it Works](#how-it-works)
+- [Prerequisites](#Prerequisites)
+- [Getting started](#Getting-started)
+
+## [Sample View](#Sample-view)
+
     Login View
 ![image](https://user-images.githubusercontent.com/32374996/204930341-1b5c418a-c7c1-4c2c-a46a-28927175874c.png)
 
@@ -13,12 +20,6 @@
     Task Creation View
 ![image](https://user-images.githubusercontent.com/32374996/204930902-ee3836ce-12cf-4795-bfe8-0e8a8ea3169f.png)
 
-
-
-
-- [How it Works](#how-it-works)
-- [Prerequisites](#Prerequisites)
-- [Getting started](#Getting-started)
 
 
 ## [How it Works](#how-it-works)

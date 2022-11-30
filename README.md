@@ -7,5 +7,5 @@
 - [Getting started](#Getting-started)
 
 
-##[How it Works](#how-it-works)
+## [How it Works](#how-it-works)
     Well based on python's framework, django. The web page is developed with a simple model related with a FK of the User model that django make since the first command that start the project.

@@ -29,11 +29,11 @@ The web page is developed with an aditional app, named base, where all the opera
 
 The web page used as front end html and css, where the main.html has all the style and the other files.html inherit from it the configurations.
 
-    Guide through the runing project
+## Guide through the runing project
 
-With all these said basically you hop on the link given you in the console runing in the server executed by django with the manage.py and the first you're going to see is the login view where you'll have to create a user in the "register" section. 
+With all these said basically you hop on the link given to you in the console runing in the server executed by django with the manage.py and the first you're going to see is the login view where you'll have to create an user in the "register" section. 
 
-After that its going to automaticly log you in and you would be able to create in the plus sign items to complete or items that you may have already completed. 
+After that it`s going to automaticly log you in and you would be able to create in the plus sign items to complete or items that you may have already completed. 
 
 Clicking in the title of the task you'll be able to edit it as its sends you to the creation form. 
 
